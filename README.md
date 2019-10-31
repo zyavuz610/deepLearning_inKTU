@@ -1,4 +1,4 @@
-# machineLearning_inKTU
+# Deep Learning
 Bu depo Karadeniz Teknik Üniversitesinde yaptığım yapay zeka çalışmaları ile ilgili kodları ğaylaştığım depodur.
 
 Yapay Zeka bügünlerde çok popüler bir konu ya da çalışma alanı. Bu konuya hakim olmak ve arkaplanda neler olup bittiğini anlamak için aşağıdaki konu sırasını takip etmenizi öneririm.
