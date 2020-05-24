@@ -1,5 +1,5 @@
 # Deep Learning
-Bu depo Karadeniz Teknik Üniversitesinde yaptığım yapay zeka çalışmaları ile ilgili kodları ğaylaştığım depodur.
+Bu depo Karadeniz Teknik Üniversitesinde yaptığım yapay zeka çalışmaları ile ilgili kodları paylaştığım depodur.
 
 Yapay Zeka bügünlerde çok popüler bir konu ya da çalışma alanı. Bu konuya hakim olmak ve arkaplanda neler olup bittiğini anlamak için aşağıdaki konu sırasını takip etmenizi öneririm.
 * **Lineer Resgresion:** Doğrusal regresyon değeri hesaplamak için kullanılır. 1 değişkenli ve çok değişkenli versiyonları vardır. Temelde  bu ikisi arasında çok bir fark bulunmamaktadır.
