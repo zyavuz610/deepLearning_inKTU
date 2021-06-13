@@ -1,8 +1,8 @@
 # Introduction to Deep Learning
 
 Although machine learning has been around for years, two new trends have led to widespread use of machine learning:
-* Large dataset
-* Powerful and efficient parallel computing achieved by GPU computing.
+* **Large dataset**
+* Powerful and efficient parallel computing achieved by **GPU computing**.
 
 As a result, new models and algorithms have been developed.
 
