@@ -18,7 +18,13 @@ The foundation of deep learning was laid when shallow artificial neural networks
 * **1959** : The first Artificial Intelligence Lab. at MIT
 * **1969** : First winter
   * Minsky and Papert showed that the XOR problem cannot be solved with a single layer network structure. It has been understood that new methods are needed. After this date, it was understood that ANN could not be used for non-linear systems and the investments to AI were stopped. Neural networks research has entered a period of stagnation. This was the first winter.
-* **1986** : Back-propagation algorithm was suggested by Hinton for training multilayer perceptrons.
-* **1995** : Support Vector Machines (SVM) was suggested. Tue use of Traditional Neural Networks was declined. This was the second winter.
-* **2012** : Processing power with GPU and huge amount of data became usuable for training deep neural networks. One of the first applications was AlexNet that had won the imagenet competition with an acceptible accuracy.
+* **1986** : Second break
+  * Back-propagation algorithm was suggested by Hinton for training multilayer perceptrons.
+  * Interest in artificial neural networks has started again.
+* **1995** : Second winter
+  * Support Vector Machines (SVM) was suggested. Tue use of Traditional Neural Networks was declined. 
+  * This was the second winter.
+* **2012** : Third break
+  * Processing power with GPU and huge amount of data became usuable for training deep neural networks. 
+  * One of the first applications was AlexNet that had won the imagenet competition with an acceptible accuracy.
 
