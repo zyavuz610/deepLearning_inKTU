@@ -1,8 +1,9 @@
 # Introduction to Deep Learning
 
-Although machine learning has been around for years, two new trends have led to widespread use of machine learning:
+Although machine learning has been around for years, three new trends have led to widespread use of machine learning:
 * **Large dataset**
 * Powerful and efficient parallel computing achieved by **GPU computing**.
+* New algorithms
 
 As a result, new models and algorithms have been developed.
 
